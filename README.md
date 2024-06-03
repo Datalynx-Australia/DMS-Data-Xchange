@@ -6,13 +6,12 @@
  #### How to install: https://youtu.be/MY8XSwsnYU0
  #### Data Xchange Download: https://github.com/Datalynx-Australia/DMS-Data-Xchange
  #### Get Product Key: https://shorturl.at/dvJV8
-________________________________________
-
  #### Educational videos: www.youtube.com/@DatalynxAustralia
+________________________________________
+ 
  #### LinkedIn: https://www.linkedin.com/company/datalynx  
  #### X (Twitter): https://twitter.com/DatalynxAus
  #### Facebook: https://www.facebook.com/profile.php?id=61558087606463
-________________________________________
 
  #### Sales:   sales@datalynx.com.au     
  #### Support: support@datalynx.com.au     
