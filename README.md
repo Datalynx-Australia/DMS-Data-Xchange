@@ -4,8 +4,7 @@
 
  ##### Introduction video: https://youtu.be/TSilv9L9H1g
  ##### How to install: https://youtu.be/MY8XSwsnYU0
- ##### Data Xchange Download: https://github.com/Datalynx-Australia/DMS-Data-Xchange/blob/main/DataXchange_Installl_v12_0_0.zip select download form <img src="https://github.com/Datalynx-Australia/DMS-Data-Xchange/blob/main/IntroPg1.png"
-     alt="Datalynx PG5" /> menu.
+ ##### Data Xchange Download: https://github.com/Datalynx-Australia/DMS-Data-Xchange/blob/main/DataXchange_Installl_v12_0_0.zip select download form <img src="https://github.com/Datalynx-Australia/DMS-Data-Xchange/blob/main/IntroPg1.png"/> menu.
 
  ##### Get Product Key: https://shorturl.at/dvJV8
  ##### Educational videos: www.youtube.com/@DatalynxAustralia
