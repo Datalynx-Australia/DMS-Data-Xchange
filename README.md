@@ -19,20 +19,17 @@ ________________________________________
  #### Website: www.datalynx.com.au
 ________________________________________     
 
-
 <img src="https://github.com/Datalynx-Australia/DMS-Data-Xplorer/blob/main/IntroPg2.png"
      alt="Datalynx PG2"
      style="float: left; margin-right: 10px;" />
 
 ________________________________________     
 
-
 <img src="https://github.com/Datalynx-Australia/DMS-Data-Xplorer/blob/main/IntroPg3.png"
      alt="Datalynx PG3"
      style="float: left; margin-right: 10px;" />
 
 ________________________________________     
-
 
 <img src="https://github.com/Datalynx-Australia/DMS-Data-Xplorer/blob/main/IntroPg4.png"
      alt="Datalynx PG4"
