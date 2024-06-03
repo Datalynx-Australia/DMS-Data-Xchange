@@ -4,7 +4,7 @@
 
  #### Introduction video: https://youtu.be/TSilv9L9H1g
  #### How to install: https://youtu.be/MY8XSwsnYU0
- #### Data Xplorer Download: https://github.com/Datalynx-Australia/DMS-Data-Xplorer
+ #### Data Xplorer Download: https://github.com/Datalynx-Australia/DMS-Data-Xchange
  #### Get Product Key: https://shorturl.at/dvJV8
 ________________________________________
 
