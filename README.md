@@ -20,8 +20,7 @@ ________________________________________
 ________________________________________     
 
 
-<img src="https://github.com/Datalynx-Australia/DMS-Data-Xplorer/blob/main/IntroPg2.png"
->>>>>>> bfdb3e3a878d535556c5ac23a7db61fc94c6b7db
+<img src="https://github.com/Datalynx-Australia/DMS-Data-Xchange/blob/main/IntroPg2.png"
      alt="Datalynx PG2"
      style="float: left; margin-right: 10px;" />
 
