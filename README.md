@@ -14,7 +14,7 @@
  
 ####  [<img src="https://github.com/Datalynx-Australia/DMS-Data-Xchange/blob/main/Linkedin_24.png" align="left">](https://www.linkedin.com/company/datalynx) [LinkedIn](https://www.linkedin.com/company/datalynx)
  
-#### [<img src="https://github.com/Datalynx-Australia/DMS-Data-Xchange/blob/main/X_24.png" align="left">](https://twitter.com/DatalynxAus) [X (Twitter)](https://twitter.com/DatalynxAus)
+#### [<img src="https://github.com/Datalynx-Australia/DMS-Data-Xchange/blob/main/X_24.png" align="left">](https://twitter.com/DatalynxAus) [<img src="https://github.com/Datalynx-Australia/DMS-Data-Xchange/blob/main/Twitter_24.png" align="left">](https://twitter.com/DatalynxAus) [X (Twitter)](https://twitter.com/DatalynxAus)
  
 #### [<img src="https://github.com/Datalynx-Australia/DMS-Data-Xchange/blob/main/Facebook_24.png" align="left">](https://www.facebook.com/profile.php?id=61558087606463) [Facebook](https://www.facebook.com/profile.php?id=61558087606463)
 
