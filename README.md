@@ -1,6 +1,6 @@
 [<img src="https://github.com/Datalynx-Australia/DMS-Data-Xchange/blob/main/IntroPg1.png"
      alt="Datalynx PG1"
-     style="float: left; margin-right: 10px;" />](www.datalynx.com.au)
+     style="float: left; margin-right: 10px;" />](https://www.datalynx.com.au/)
 
  ##### Introduction video: https://youtu.be/FVPMFWs-a_4
  ##### How to install: https://youtu.be/htvMfII366c
