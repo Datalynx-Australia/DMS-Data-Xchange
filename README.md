@@ -10,7 +10,7 @@
 
  #### [<img src="https://github.com/Datalynx-Australia/DMS-Data-Xchange/blob/main/Signup_24.png" align="left">]([https://youtu.be/FVPMFWs-a_4](https://shorturl.at/dvJV8)) [Get Product Key](https://shorturl.at/dvJV8)
  
- #### [<img src="https://github.com/Datalynx-Australia/DMS-Data-Xchange/blob/main/Youtube_24.png" align="left">](www.youtube.com/@DatalynxAustralia) [Educational videos](www.youtube.com/@DatalynxAustralia)
+ #### [<img src="https://github.com/Datalynx-Australia/DMS-Data-Xchange/blob/main/Youtube_24.png" align="left">](https://www.youtube.com/@DatalynxAustralia) [Educational videos] (https://www.youtube.com/@DatalynxAustralia)
  
  ####  [<img src="https://github.com/Datalynx-Australia/DMS-Data-Xchange/blob/main/Linkedin_24.png" align="left">](https://www.linkedin.com/company/datalynx) [LinkedIn](https://www.linkedin.com/company/datalynx)
  
