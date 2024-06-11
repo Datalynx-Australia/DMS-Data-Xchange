@@ -2,7 +2,7 @@
      alt="Datalynx PG1"
      style="float: left; margin-right: 10px;" />](https://www.datalynx.com.au/)
 
- #### [<img src="https://github.com/Datalynx-Australia/DMS-Data-Xchange/blob/main/Youtube_24.png" align="left">](https://youtu.be/FVPMFWs-a_4) [Introduction video](https://youtu.be/FVPMFWs-a_4)
+ #### [<img src="https://github.com/Datalynx-Australia/DMS-Data-Xchange/blob/main/Youtube_24.png" align="left">](https://youtu.be/FVPMFWs-a_4)[Introduction video](https://youtu.be/FVPMFWs-a_4)
  
  #### [<img src="https://github.com/Datalynx-Australia/DMS-Data-Xchange/blob/main/Youtube_24.png" align="left">](https://youtu.be/htvMfII366c) [How to install](https://youtu.be/htvMfII366c)
  
