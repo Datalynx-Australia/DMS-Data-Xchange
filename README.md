@@ -1,4 +1,4 @@
-[<img src="https://github.com/Datalynx-Australia/DMS-Data-Xchange/blob/main/IntroPg1.png"
+[<img src="https://github.com/Datalynx-Australia/Images/blob/main/IntroPg1.png"
      alt="Datalynx PG1"
      style="float: left; margin-right: 10px;" />](https://www.datalynx.com.au/)
 
