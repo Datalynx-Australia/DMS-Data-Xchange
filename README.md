@@ -3,15 +3,15 @@
      style="float: left; margin-right: 10px;" />](https://www.datalynx.com.au/)
 
  ##### [`Introduction video`](https://youtu.be/FVPMFWs-a_4)
- ##### `How to install`: https://youtu.be/htvMfII366c
- ##### `Data Xchange Download`: https://github.com/Datalynx-Australia/DMS-Data-Xchange/blob/main/DataXchange_Install_v12_0_0.zip select download from [<img src="https://github.com/Datalynx-Australia/DMS-Data-Xchange/blob/main/IntroPg5.png">](https://github.com/Datalynx-Australia/DMS-Data-Xchange/blob/main/DataXchange_Install_v12_0_0.zip)  menu.
+ ##### [`How to install`](https://youtu.be/htvMfII366c)
+ ##### [`Data Xchange Download`](https://github.com/Datalynx-Australia/DMS-Data-Xchange/blob/main/DataXchange_Install_v12_0_0.zip) select download from [<img src="https://github.com/Datalynx-Australia/DMS-Data-Xchange/blob/main/IntroPg5.png">](https://github.com/Datalynx-Australia/DMS-Data-Xchange/blob/main/DataXchange_Install_v12_0_0.zip)  menu.
 
- ##### `Get Product Key`: https://shorturl.at/dvJV8
- ##### `Educational videos`: www.youtube.com/@DatalynxAustralia
+ ##### [`Get Product Key`](https://shorturl.at/dvJV8)
+ ##### [`Educational videos`](www.youtube.com/@DatalynxAustralia)
  
- ##### `LinkedIn`: https://www.linkedin.com/company/datalynx  
- ##### `X (Twitter)`: https://twitter.com/DatalynxAus
- ##### `Facebook`: https://www.facebook.com/profile.php?id=61558087606463
+ ##### [`LinkedIn`](https://www.linkedin.com/company/datalynx)
+ ##### [`X (Twitter)`](https://twitter.com/DatalynxAus)
+ ##### [`Facebook`](https://www.facebook.com/profile.php?id=61558087606463)
 
 
 [<img src="https://github.com/Datalynx-Australia/DMS-Data-Xchange/blob/main/IntroPg2.png"
