@@ -14,17 +14,17 @@
  ##### Facebook: https://www.facebook.com/profile.php?id=61558087606463
 
 
-<img src="https://github.com/Datalynx-Australia/DMS-Data-Xchange/blob/main/IntroPg2.png"
+[<img src="https://github.com/Datalynx-Australia/DMS-Data-Xchange/blob/main/IntroPg2.png"
      alt="Datalynx PG2"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 10px;" />](https://www.datalynx.com.au/)
 
-<img src="https://github.com/Datalynx-Australia/DMS-Data-Xchange/blob/main/IntroPg3.png"
+[<img src="https://github.com/Datalynx-Australia/DMS-Data-Xchange/blob/main/IntroPg3.png"
      alt="Datalynx PG3"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 10px;" />](https://www.datalynx.com.au/)
 
-<img src="https://github.com/Datalynx-Australia/DMS-Data-Xchange/blob/main/IntroPg4.png"
+[<img src="https://github.com/Datalynx-Australia/DMS-Data-Xchange/blob/main/IntroPg4.png"
      alt="Datalynx PG4"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 10px;" />](https://www.datalynx.com.au/)
 
 
  ##### Sales:   sales@datalynx.com.au     
