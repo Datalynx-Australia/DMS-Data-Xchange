@@ -3,8 +3,8 @@
      style="float: left; margin-right: 10px;" />](https://www.datalynx.com.au/)
 
  #### [<img src="https://github.com/Datalynx-Australia/DMS-Data-Xchange/blob/main/Youtube_24.png" align="left">](https://youtu.be/FVPMFWs-a_4) [`Introduction video`](https://youtu.be/FVPMFWs-a_4)
- #### - [`How to install`](https://youtu.be/htvMfII366c)
- #### - [`Data Xchange Download`](https://github.com/Datalynx-Australia/DMS-Data-Xchange/blob/main/DataXchange_Install_v12_0_0.zip) select download from [<img src="https://github.com/Datalynx-Australia/DMS-Data-Xchange/blob/main/IntroPg5.png">](https://github.com/Datalynx-Australia/DMS-Data-Xchange/blob/main/DataXchange_Install_v12_0_0.zip)  menu.
+ #### [<img src="https://github.com/Datalynx-Australia/DMS-Data-Xchange/blob/main/Youtube_24.png" align="left">](https://youtu.be/htvMfII366c) [`How to install`](https://youtu.be/htvMfII366c)
+ #### [<img src="https://github.com/Datalynx-Australia/DMS-Data-Xchange/blob/main/Github_24.png" align="left">](https://github.com/Datalynx-Australia/DMS-Data-Xchange/blob/main/DataXchange_Install_v12_0_0.zip) [`Data Xchange Download`](https://github.com/Datalynx-Australia/DMS-Data-Xchange/blob/main/DataXchange_Install_v12_0_0.zip) select download from [<img src="https://github.com/Datalynx-Australia/DMS-Data-Xchange/blob/main/IntroPg5.png">](https://github.com/Datalynx-Australia/DMS-Data-Xchange/blob/main/DataXchange_Install_v12_0_0.zip)  menu.
 
  #### - [`Get Product Key`](https://shorturl.at/dvJV8)
  #### - [`Educational videos`](www.youtube.com/@DatalynxAustralia)
