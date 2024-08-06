@@ -7,7 +7,7 @@
 
  ### [<img src="https://github.com/Datalynx-Australia/Images/blob/main/DataXplorer.png" align="left">](https://https://www.datalynx.com.au/xchange) [Data Xchange Free Trial](https://www.datalynx.com.au/xchange)
 
-
+------------------------------------------------------------------------------------------------
 
 [<img src="https://github.com/Datalynx-Australia/Images/blob/main/IntroPg2.png"
      alt="Datalynx PG2"
